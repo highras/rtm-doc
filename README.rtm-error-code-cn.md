@@ -1,7 +1,7 @@
-#RTM ERROR CODE#
+# RTM ERROR CODE #
 [English Version](README.md)
 
-##RTM 错误代码##
+## RTM 错误代码 ##
 
 | 错误码 | 描述（同一个错误码描述可能些许不同） | 中文说明 |
 |------|-------|-----|
