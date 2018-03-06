@@ -1,7 +1,7 @@
-# RTM FILE TYPE
+# RTM FILE TYPE #
 [English Version](README.md)
 
-## RTM 文件类型说明
+## RTM 文件类型说明 #
 
 message 相关接口中 ftype字段说明
 
